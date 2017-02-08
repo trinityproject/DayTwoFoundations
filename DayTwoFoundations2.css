@@ -1,0 +1,40 @@
+
+}
+.title {
+  padding: 10px;
+  font-weight: bold;
+   float: center;
+  border-bottom: 2px solid #ff0000;
+}
+.inline {
+  padding: 10px;
+  border: 2px dashed #ff0000;
+  background-color: white;
+  display: inline-block;
+  font-size: 15px;
+    float: center;
+    font-family: Trebuchet;
+    color: blue;
+}
+p {
+  display: inline-block;
+  padding-right: 50px;
+  text-decoration: none;
+  background-color: white;
+  font-size: 15px;
+    float: center;
+    font-family: Trebuchet;
+    color: black;
+    border: 2px dashed #ff0000;
+}
+.gradient {
+  background-color: black;
+  padding-top: 50px;
+  padding-left: 50px;
+}
+.whiteBox {
+  display block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
